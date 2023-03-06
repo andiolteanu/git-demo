@@ -1,5 +1,9 @@
 four
 
 --adaugat aici
+<<<<<<< HEAD
 
 --adugat aici pe local
+=======
+--adaugat pe github
+>>>>>>> 7ff3249ea1e76e5fcf6d9dd10e9d928f840e5fb3
